@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-react-router-v6/static/css/main.68d01a50.css",
+    "main.js": "/youtube-react-router-v6/static/js/main.0e3c8287.js",
+    "index.html": "/youtube-react-router-v6/index.html",
+    "main.68d01a50.css.map": "/youtube-react-router-v6/static/css/main.68d01a50.css.map",
+    "main.0e3c8287.js.map": "/youtube-react-router-v6/static/js/main.0e3c8287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d01a50.css",
+    "static/js/main.0e3c8287.js"
+  ]
+}
